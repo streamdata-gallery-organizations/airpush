@@ -1,16 +1,16 @@
 ---
 name: Airpush
 x-slug: airpush
-description: Airpush???s Conversion Optimizer is a revolutionary new product that
-  dramatically increases mobile campaign performance for advertisers of all types.
-  Conversion Optimizer utilizes advanced learning algorithms to reduce cost per acquisition
-  while simultaneously increasing campaign volume.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Airpush-logo.jpeg
+description: World class mobile ad network and mobile app monetization using first-party
+  data and the most advanced targeting and ad formats. The worlds top advertisers
+  rely on Airpush to reach mobile users and top developers and publishers use Airpush
+  for the hig...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1863-airpush.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "223652"
 tags: Airpush
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/airpush/master/_listings/airpush/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -19,8 +19,20 @@ x-common:
   url: http://www.airpush.com/category/airpush-mobile-advertising-blog/
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/airpush
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/airpush
 - type: x-developer
   url: http://www.airpush.com/developers/
+- type: x-email
+  url: o.vladimir@airpush.com
+- type: x-email
+  url: legal@airpush.com
+- type: x-email
+  url: childapp@airpush.com
+- type: x-email
+  url: support@airpush.com
+- type: x-email
+  url: privacy@airpush.com
 - type: x-terms-of-service
   url: http://www.airpush.com/siteterms/
 - type: x-twitter
